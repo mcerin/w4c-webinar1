@@ -7,7 +7,7 @@ Water4Cities project - Webinar #1.
 * data fusion infrastructure on a stream of smart-grid data
 * simple and fast data-driven modelling capabilities on the top of W4C data gathering infrastructure with the usage of Python/scikit-learn/pandas.
 
-[Slides|https://github.com/klemenkenda/w4c-webinar1/blob/master/slides.pdf]
+[Slides](https://github.com/klemenkenda/w4c-webinar1/blob/master/slides.pdf)
 
 ## Software Requirements
 
